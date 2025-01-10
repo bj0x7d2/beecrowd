@@ -4,7 +4,7 @@ def main():
     PI = 3.14159
     volume = 4.0/3.0 * PI * pow(ray, 3)
 
-    print('VOLUME {:.3f}'.format(volume))
+    print('VOLUME = {:.3f}'.format(volume))
 
 
 if __name__ == '__main__':
